@@ -1,2 +1,4 @@
-# gospel
-Gospel evangelism app.
+# Gospel Opportunity
+
+## Stylistic choices
+* Scrolling animations. [https://scrollmagic.io](Example)
